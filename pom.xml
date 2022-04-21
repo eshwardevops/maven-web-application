@@ -98,14 +98,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.232.199.250:9980/mithuntechnologies/repository/facebook-release/</url>
+	      <name>Eshwar Technologies Releases Nexus Repository</name>
+	      <url>http://3.109.123.142:8081/repository/facebookk-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.232.199.250:9980/mithuntechnologies/repository/facebook-snapshot/</url>
+	      <name>Eshwar Technologies Snapshot Nexus Repository </name>
+	      <url>http://3.109.123.142:8081/repository/facebookk-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
